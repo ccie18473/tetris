@@ -1,24 +1,10 @@
-# Wolf3d v1
+# Tetris v1
 
 ## Description
 
-Based on the excelent work made by Nhyarlathotep:
+Based on the Borland C++ 4.52 (1995) Turbo Blocks game.
 
-https://github.com/Nhyarlathotep/Wolf3D-wasm
-
-https://github.com/Nhyarlathotep/Wolf3D-react-editor
-
-The purpose was to adapt to the ggez/gwg framework and make it a binary instead of lib.
-Also, ggez/gwg supports compilation to WASM target so the best of both worlds.
-
-You can navigate on the first level of the original game.
-
-About the original game:
-
-https://en.wikipedia.org/wiki/Wolfenstein_3D
-
-
-![](wolf3d.jpg)
+![](tetris.jpg)
 
 ## Dependencies
 
