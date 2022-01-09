@@ -4,6 +4,10 @@
 
 Based on the Borland C++ 4.52 (1995) Turbo Blocks game.
 
+This the well known game Tetris.
+
+Tetris is a puzzle video game created by Soviet software engineer Alexey Pajitnov in 1984.
+
 ![](tetris.jpg)
 
 ## Dependencies
